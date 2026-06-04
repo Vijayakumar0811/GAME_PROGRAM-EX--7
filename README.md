@@ -48,7 +48,9 @@ Press Play: the AI should roam when the player is far and chase the player when 
 sight.
 UNavigationSystemV1::GetRandomReachablePointInRadius()
 ### Output
-<img width="876" height="748" alt="Screenshot 2025-11-13 141029" src="https://github.com/user-attachments/assets/a1abf0ae-586d-42c7-9d23-d7b48f22a148" />
+<img width="1175" height="489" alt="image" src="https://github.com/user-attachments/assets/6954dffc-82fe-4c9e-a8c0-ded75ac14c4e" />
+<img width="1171" height="444" alt="image" src="https://github.com/user-attachments/assets/4f5d1d54-995c-4349-8fd9-3e9b1e0a8edb" />
+
 
 <img width="880" height="449" alt="Screenshot 2025-11-13 140948" src="https://github.com/user-attachments/assets/74c416e1-692e-4777-aa0a-f89872e05fc9" />
 
