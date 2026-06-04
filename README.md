@@ -48,13 +48,9 @@ Press Play: the AI should roam when the player is far and chase the player when 
 sight.
 UNavigationSystemV1::GetRandomReachablePointInRadius()
 ### Output
-sanjay
-<img width="880" height="449" alt="Screenshot 2025-11-13 140948" src="https://github.com/user-attachments/assets/74c416e1-692e-4777-aa0a-f89872e05fc9" />
 <img width="876" height="748" alt="Screenshot 2025-11-13 141029" src="https://github.com/user-attachments/assets/a1abf0ae-586d-42c7-9d23-d7b48f22a148" />
 
+<img width="880" height="449" alt="Screenshot 2025-11-13 140948" src="https://github.com/user-attachments/assets/74c416e1-692e-4777-aa0a-f89872e05fc9" />
 
-The AI character roams randomly within a defined area. When the player enters its sight range, the
-AI stops roaming and begins to chase the player until the player is out of sight, after which it
-resumes roaming.
 ### Result
 The AI character roams randomly within a defined area. When the player enters its sight range, the AI stops roaming and begins to chase the player until the player is out of sight, after which it resumes roaming.
